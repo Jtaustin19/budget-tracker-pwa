@@ -57,6 +57,6 @@ function uploadTransaction() {
     };
 };
 
-// Ebd Callback Function
+// End Callback Function
 
 window.addEventListener('online', uploadTransaction);
