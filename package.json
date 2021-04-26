@@ -14,17 +14,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "https://github.com/Jtaustin19/budget-tracker-pwa"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/Jtaustin19/budget-tracker-pwa/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/Jtaustin19/budget-tracker-pwa#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
+    "manifest": "^0.1.4",
     "mongoose": "^5.12.5",
     "morgan": "^1.9.1",
     "node": "^16.0.0"
